@@ -6,4 +6,5 @@ langchain_groq
 langchain_huggingface
 faiss-cpu
 streamlit
+watchdog
 tavily-python
